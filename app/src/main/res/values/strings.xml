@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="convert">Convert</string>
+    <string name="temperature">Temperature</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="placeholder">temperature</string>
+    <string name="distances">Distances</string>
+    <string name="meter">m</string>
+    <string name="mile">mi</string>
+    <string name="placeholder_distance">distance</string>
+    <string name="length">"Length</string>
+    <string name="cen">cm</string>
+    <string name="inch">inch</string>
+    <string name="placeholder_length">length</string>
+</resources>
